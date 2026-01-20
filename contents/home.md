@@ -1,4 +1,4 @@
-[![RhoHwai](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/RhoHwai)
+[![RhoHwai](https://img.shields.io/badge/RhoHwai-github-blue?logo=github)](https://github.com/RhoHwai)
 
 I'm currently pursuing a Master's degree in UESTC
 
